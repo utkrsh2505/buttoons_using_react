@@ -1,0 +1,42 @@
+.main {
+  width: 400px;
+  margin: auto;
+  font-family: sans-serif;
+  gap: 3px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+button {
+  width: 150px;
+  font-size: 20px;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: white;
+}
+button:nth-child(1) {
+  background-color: #3383a6;
+}
+
+button:nth-child(2) {
+  background-color: #86afb0;
+}
+button:nth-child(3) {
+  background-color: #f99c22;
+}
+button:nth-child(4) {
+  background-color: #df3c48;
+}
+button:nth-child(5) {
+  background-color: #7aac3e;
+}
+button:nth-child(6) {
+  background-color: #625f9e;
+}
+button:nth-child(7) {
+  background-color: #ec4c94;
+}
+button:nth-child(8) {
+  background-color: #b69947;
+}
